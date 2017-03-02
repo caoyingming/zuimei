@@ -11,7 +11,7 @@ body{
 }
 .wrap{
 	width: 12rem;
-	padding-top: 0.3rem;
+	
 }
 
 .conbg{
@@ -20,6 +20,7 @@ body{
 	height: 8.4rem;
 	background-size: 100% 100%;
 	margin: 0 auto;
+	border: 0.3rem solid red;
 }
 .conbg .p1{
 	padding: 1.2rem 0 0 1.3rem;
