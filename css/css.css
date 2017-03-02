@@ -38,7 +38,7 @@ body{
 	font-size: 0.46rem;
 	color: #073152;
 	text-align: center;
-	padding-top: 0.36rem;
+	padding-top: 0.46rem;
 }
 .conbg h3{
 	text-align: center;
@@ -50,6 +50,7 @@ body{
 	font-size: 0.4rem;
 	text-align: center;
 	color: #073152;
+	margin-top: 0.1rem;
 }
 .conbg .p2{
 	font-size: 0.2rem;
@@ -65,7 +66,7 @@ body{
 	font-size: 0.22rem;
 	color: #073152;
 	font-weight: bold;
-	padding-top: 0.4rem;
+	padding-top: 0.5rem;
 	width: 8rem;
 	margin: 0 auto;
 }
